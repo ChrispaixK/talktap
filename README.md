@@ -39,9 +39,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/ChrispaixK)
-- Twitter: [@twitterhandle](https://twitter.com/ChrispaixK)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Chrispaix Kaze)
+- GitHub: [@ChrispaixK](https://github.com/ChrispaixK)
+- Twitter: [@ChrispaixK](https://twitter.com/ChrispaixK)
+- LinkedIn: [Chrispaix KAZE](https://linkedin.com/in/ChrispaixKaze)
 
 
 ## 🤝 Contributing
