@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> Setting up a "Hello world" repository. No complex coding is required . The goal here is to master all of the tools and best practices I learned about in previous steps.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
 
 ## Live Demo (if available)
 
@@ -19,22 +17,21 @@
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Create a file locally and clone this project**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+### create a local folder
 
-### Install
+### open your code editor
 
-### Usage
+### open your folder in your editor
 
-### Run tests
+### clone the projecct
 
-### Deployment
 
 
 
@@ -42,15 +39,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ChrispaixK)
+- Twitter: [@twitterhandle](https://twitter.com/ChrispaixK)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Chrispaix Kaze)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,9 +56,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- MicroverseInc
 
 ## 📝 License
 
