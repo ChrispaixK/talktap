@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@ChrispaixK](https://github.com/ChrispaixK)
 - Twitter: [@ChrispaixK](https://twitter.com/ChrispaixK)
-- LinkedIn: [Chrispaix KAZE](https://linkedin.com/in/ChrispaixKaze)
+- LinkedIn: [Chrispaix KAZE](https://www.linkedin.com/in/chrispaix-kaze-70445a175/)
 
 
 ## 🤝 Contributing
