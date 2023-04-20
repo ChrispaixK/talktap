@@ -1,13 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+# taptalk
 
-> Setting up a "Hello world" repository. No complex coding is required . The goal here is to master all of the tools and best practices I learned about in previous steps.
+> description goes here ...
 
 
 ## Built With
 
-- HTML & CSS
+- NextJs
+- Tailwind
 
 ## Live Demo (if available)
 
